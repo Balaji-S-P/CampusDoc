@@ -1,0 +1,124 @@
+{
+  "report_metadata": {
+    "generated_at": "2025-10-15T14:33:17.307575",
+    "version": "1.0",
+    "system": "RAG Enterprise System"
+  },
+  "processing_efficiency": {
+    "processing_time": {
+      "average": 0.18193877577781678,
+      "std_deviation": 0.0028279009236101093,
+      "median": 0.18210601806640625,
+      "min": 0.17175078392028809,
+      "max": 0.18527483940124512,
+      "coefficient_of_variation": 1.5543145827602662
+    },
+    "throughput": {
+      "files_per_second": 5.4963544506927855,
+      "files_per_minute": 329.7812670415671,
+      "mb_per_second": 0.05885401046919353,
+      "pages_per_second": 30.133253360227087
+    },
+    "resource_usage": {
+      "avg_memory_mb": 50.10964814453125,
+      "avg_cpu_percent": 30.054824072265625,
+      "memory_efficiency_ratio": 0.04273758452063084
+    },
+    "scalability": {
+      "total_files_processed": 200,
+      "total_size_mb": 2.1415653228759766,
+      "processing_consistency": 98.44568541723973
+    }
+  },
+  "query_efficiency": {
+    "response_time": {
+      "average": 0.30792706727981567,
+      "std_deviation": 0.0023384885748813427,
+      "p95": 0.3100910186767578,
+      "p99": 0.3101362180709839,
+      "coefficient_of_variation": 0.7594293660311259
+    },
+    "component_analysis": {
+      "context_retrieval_time": 0.10384063720703125,
+      "generation_time": 0.2040791916847229,
+      "context_ratio": 0.3372247789853124,
+      "generation_ratio": 0.6627517141884595
+    },
+    "throughput": {
+      "queries_per_second": 3.247522242308411,
+      "queries_per_minute": 194.85133453850466
+    },
+    "resource_usage": {
+      "avg_memory_mb": 103.516,
+      "avg_cpu_percent": 41.758
+    },
+    "consistency": {
+      "response_consistency": 99.24057063396887,
+      "performance_stability": "high"
+    }
+  },
+  "accuracy_metrics": {
+    "accuracy": {
+      "overall_accuracy": 1.0,
+      "correct_answers": 50,
+      "incorrect_answers": 0,
+      "error_rate": 0.0
+    },
+    "quality_metrics": {
+      "precision": {
+        "average": 0.9,
+        "std_deviation": 0.0
+      },
+      "recall": {
+        "average": 0.8,
+        "std_deviation": 0.0
+      },
+      "f1_score": {
+        "average": 0.85
+      }
+    },
+    "performance_grade": "A (Very Good)"
+  },
+  "comparative_analysis": {
+    "improvements": {
+      "processing_time_improvement": 100.0,
+      "response_time_improvement": 100.0,
+      "accuracy_improvement": -100.0
+    },
+    "overall_efficiency_gain": 37.5,
+    "performance_rating": "Excellent"
+  },
+  "cost_benefit_analysis": {
+    "time_savings": {
+      "file_processing_improvement": 197768.76022494028,
+      "query_processing_improvement": 58355.4003615514,
+      "hours_saved_per_day": 20489.932846919335
+    },
+    "cost_savings": {
+      "daily_savings": 1024496.6423459668,
+      "monthly_savings": 22538926.13161127,
+      "annual_savings": 270467113.5793352
+    },
+    "roi": {
+      "roi_percentage": 2704671.135793352,
+      "payback_period_months": 0.00044367686116042644,
+      "system_cost": 10000
+    },
+    "efficiency_rating": "Exceptional (80%+ improvement)"
+  },
+  "summary": {
+    "key_metrics": {
+      "files_processed_per_second": 5.4963544506927855,
+      "queries_processed_per_second": 3.247522242308411,
+      "overall_accuracy": 1.0,
+      "average_response_time": 0.30792706727981567
+    },
+    "performance_highlights": [
+      "Processes 5.50 files per second",
+      "Handles 3.25 queries per second",
+      "Achieves 100.0% accuracy",
+      "Responds in 0.31 seconds on average"
+    ],
+    "recommendations": []
+  }
+}

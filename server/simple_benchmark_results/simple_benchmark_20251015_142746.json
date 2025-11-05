@@ -1,0 +1,55 @@
+{
+  "benchmark_metadata": {
+    "timestamp": "2025-10-15T14:27:46.012997",
+    "version": "1.0",
+    "system": "RAG Enterprise System"
+  },
+  "document_processing": {
+    "total_documents": 20,
+    "total_size_kb": 5135,
+    "total_time": 4.000911,
+    "average_time": 0.20004555000000002,
+    "std_deviation": 0.12583116605803066,
+    "files_per_second": 4.998861509291259,
+    "kb_per_second": 1283.4576925105307,
+    "pages_per_second": 23.494649093668915
+  },
+  "query_response": {
+    "total_queries": 10,
+    "total_time": 4.697,
+    "average_response_time": 0.4697,
+    "average_context_time": 0.28182,
+    "average_generation_time": 0.18788000000000002,
+    "queries_per_second": 2.1290185224611453,
+    "response_consistency": 63.31368231525102
+  },
+  "accuracy_metrics": {
+    "total_queries": 10,
+    "correct_answers": 10,
+    "overall_accuracy": 1.0,
+    "precision": 0.85368,
+    "recall": 0.8277,
+    "f1_score": 0.8404892838025908,
+    "error_rate": 0.0
+  },
+  "efficiency_improvements": {
+    "document_processing_improvement": 95.999089,
+    "query_response_improvement": 84.34333333333333,
+    "accuracy_improvement": 42.85714285714287,
+    "overall_efficiency_gain": 74.39985506349207
+  },
+  "cost_benefit_analysis": {
+    "hours_saved_per_day": 14.427393786666666,
+    "daily_cost_savings": 721.3696893333333,
+    "annual_cost_savings": 180342.42233333332,
+    "roi_percentage": 1803.4242233333334,
+    "payback_period_months": 0.6654008438358432
+  },
+  "performance_summary": {
+    "files_per_second": 4.998861509291259,
+    "queries_per_second": 2.1290185224611453,
+    "average_response_time": 0.4697,
+    "overall_accuracy": 1.0,
+    "performance_grade": "A+ (Excellent)"
+  }
+}

@@ -1,0 +1,33 @@
+# Core Flask dependencies
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# AI and ML dependencies
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+langchain==0.0.350
+
+# Google AI dependencies
+google-generativeai==0.3.2
+google-api-python-client==2.108.0
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Database dependencies
+sqlite3
+
+# Web scraping and PDF processing (for helper.py)
+requests==2.31.0
+beautifulsoup4==4.12.2
+PyPDF2==3.0.1
+
+# OAuth dependencies
+google-auth-oauthlib==1.1.0
+google-auth==2.23.4
+
+# Standard library dependencies (usually included with Python)
+uuid
+datetime
+json
+os

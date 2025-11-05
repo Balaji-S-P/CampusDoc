@@ -1,0 +1,6 @@
+.env
+faiss_index.bin
+metadata.json
+__pycache__/
+skcet_additional_data.json
+placement.json

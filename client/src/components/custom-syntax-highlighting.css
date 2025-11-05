@@ -1,0 +1,145 @@
+/* Custom syntax highlighting styles based on comprehensive theme */
+
+.hljs-comment {
+  color: #ffffff80 !important;
+}
+
+.hljs-tag {
+  color: #f22c3d !important;
+}
+
+.hljs-operator,
+.hljs-punctuation,
+.hljs-subst {
+  color: #fff !important;
+}
+
+.hljs-operator {
+  opacity: 0.7 !important;
+}
+
+.hljs-bullet,
+.hljs-deletion,
+.hljs-name,
+.hljs-template-variable,
+.hljs-variable {
+  color: #df3079 !important;
+}
+
+.hljs-tag > .hljs-name {
+  color: #f22c3d !important;
+}
+
+.hljs-tag > .hljs-attr {
+  color: #df3079 !important;
+}
+
+.hljs-tag > .hljs-string {
+  color: #00a67d !important;
+}
+
+.hljs-selector-tag {
+  color: #f22c3d !important;
+}
+
+.hljs-selector-class {
+  color: #df3079 !important;
+}
+
+.hljs-attr {
+  color: #df3079 !important;
+}
+
+.hljs-link,
+.hljs-literal,
+.hljs-symbol,
+.hljs-variable.constant_ {
+  color: #f22c3d !important;
+}
+
+.hljs-number {
+  color: #df3079 !important;
+}
+
+.hljs-class .hljs-title,
+.hljs-title,
+.hljs-title.class_ {
+  color: #f22c3d !important;
+}
+
+.hljs-strong {
+  font-weight: 700 !important;
+  color: #f22c3d !important;
+}
+
+.hljs-code,
+.hljs-string,
+.hljs-title.class_.inherited__ {
+  color: #00a67d !important;
+}
+
+.hljs-addition {
+  color: #00a67d !important;
+}
+
+.hljs-deletion {
+  color: #f22c3d !important;
+}
+
+.hljs-doctag,
+.hljs-keyword.hljs-atrule,
+.hljs-quote,
+.hljs-regexp {
+  color: #2e95d3 !important;
+}
+
+.hljs-built_in {
+  color: #e9950c !important;
+}
+
+.hljs-attribute,
+.hljs-function .hljs-title,
+.hljs-section,
+.hljs-title.function_,
+.ruby .hljs-property {
+  color: #f22c3d !important;
+}
+
+.hljs-property {
+  color: #df3079 !important;
+}
+
+.hljs-function {
+  color: #f22c3d !important;
+}
+
+.diff .hljs-meta,
+.hljs-keyword,
+.hljs-template-tag {
+  color: #2e95d3 !important;
+}
+
+.hljs-type {
+  color: #df3079 !important;
+  font-style: italic !important;
+}
+
+.hljs-emphasis {
+  color: #f22c3d !important;
+  font-style: italic !important;
+}
+
+.hljs-meta,
+.hljs-meta .hljs-keyword,
+.hljs-meta .hljs-string {
+  color: #fff9 !important;
+}
+
+.hljs-meta .hljs-keyword,
+.hljs-meta-keyword {
+  font-weight: 700 !important;
+}
+
+.hljs-params {
+  color: #fff !important;
+}

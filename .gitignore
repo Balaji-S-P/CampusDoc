@@ -1,0 +1,33 @@
+# Environment files
+.env
+
+# Virtual environment
+venv/
+
+# Credentials and sensitive files
+server/credentials.json
+server/creds.json
+
+# Database files
+server/tokens.db
+
+# Chat histories
+server/chat_histories/
+server/skcet_additional_data.json
+server/placement.json
+server/pdf_texts.txt
+server/skcet_comprehensive_data.json
+server/data/
+server/debug.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+# Node modules
+client/node_modules/
+
+# Build outputs
+client/dist/
+client/build/
